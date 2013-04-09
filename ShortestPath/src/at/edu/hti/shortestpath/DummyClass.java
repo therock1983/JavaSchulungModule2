@@ -22,7 +22,9 @@ package at.edu.hti.shortestpath;
  */
 
 public class DummyClass {
-
+public static void main(String[] args) {
+  
+}
 }
 
 
